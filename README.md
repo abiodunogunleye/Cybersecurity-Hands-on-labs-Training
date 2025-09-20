@@ -1,2 +1,2 @@
 # Cybersecurity-Hands-on-labs-Training
-Operations And Incident Response
+This project is my journey of building a Security+ home lab.  
