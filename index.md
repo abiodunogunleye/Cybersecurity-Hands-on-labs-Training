@@ -27,3 +27,4 @@ This project helps me practice cybersecurity concepts through hands-on labs.
 ## Credits
 This project follows along with the excellent Security+ lab series by **CyberLabs007** on YouTube.  
 [Watch the Playlist](https://www.youtube.com/playlist?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93bOU-)  
+ 
