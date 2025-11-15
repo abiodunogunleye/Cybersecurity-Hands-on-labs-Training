@@ -8,6 +8,7 @@ This project helps me practice cybersecurity concepts through hands-on labs.
 ---
 
 ## Progress So Far
+- [Episode 22: chmod Command](labs/ep22-chmod.md)
 - [Episode 21: logger Command](labs/ep21-logger.md)
 - [Episodes 1–12](labs/ep1-12.md) completed  
 - [Episode 13: Nmap](labs/ep13.md) completed  
